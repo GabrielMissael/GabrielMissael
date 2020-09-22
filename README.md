@@ -4,7 +4,7 @@ My name is Missael; I´m a 3rd-year physics undergraduate from the [University o
 
 - I mainly use Python 🐍 and also C/C++.
 - My research interests focus on astrophysics and cosmology ✨.
-- I´m interested in learning almost anything that involves physics and programming 👨🏽‍💻.
+- I´m interested in learning almost everything that involves physics and programming altogether 👨🏽‍💻.
 - I´m an active member of some groups such as: 
     -  🚀 @futurelabmx 
     - 🔭 GOLF (Organized Group of Physics Undergrads)
