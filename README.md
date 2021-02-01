@@ -1,6 +1,6 @@
 ### Hi there!🤓
 
-My name is Missael; I´m a 3rd-year physics undergraduate from the [University of Guanajuato](https://www.ugto.mx/en/)🐝. Some things about me:
+My name is Missael; I´m a 3rd-year physics undergraduate student from the [University of Guanajuato](https://www.ugto.mx/en/)🐝. Somethings about me:
 
 - I mainly use Python 🐍 and also C/C++.
 - My research interests focus on astrophysics and cosmology ✨.
