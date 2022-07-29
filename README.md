@@ -8,6 +8,14 @@ I'm Missa, studying physics at the Univerity of Guanajuato. I'm currently pursui
 - 💝 I'm a member of several technical and scientific communities, such as [Future Lab](https://futurelab.mx/), [GOLF](https://www.facebook.com/golf.fisica), and [GDSC UG](https://gdsc.community.dev/university-of-guanajuato/).
 - 💬 I'm looking to share with others by giving workshops or talks (about DS, Git/GitHub, NLP, etc.). Feel free to reach me; I'm happy to help!
 
+### Gallery with amazing people 🚀
+
+<p align="center">
+  <img alt="GOLF Community" src="https://i.imgur.com/3hnhdh8.jpg" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="GitHub Campus Experts" src="https://i.imgur.com/8cDcG3b.jpg" width="40%">
+</p>
+
 ### Some numbers 🧠
 
 <p align="center">
